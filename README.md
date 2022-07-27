@@ -1,11 +1,16 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+### About Me
+Hey there! I’m Lucas De Andrade Forte, 20 years old, currently living in Brazil. 
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+I am a computer technician graduated from "IFMT - Instituto Federal de Mato Grosso” in 2020. Currently, I am a graduate student in systems for internet at Faculdade Descomplica in Curitiba, Paraná.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lucandradeforte)
+A software developer who is also passionate about user interface design.
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lucandradeforte) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucandradeforte/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucandradeforte/)
+### Technologies
+- Front-end Development with HTML, CSS, Javascript, React and NextJS.
+- User Interface Design.
+- Web Design with Figma.
+
+###  Contact Me
+- <a href="https://www.linkedin.com/in/lucandradeforte/">Linkedin</a>
+- <a href="mailto:lucasdeandradeforte@gmail.com">E-mail</a>
+</div>
