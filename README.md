@@ -6,7 +6,7 @@ I am a computer technician graduated from "IFMT - Instituto Federal de Mato Gros
 A software developer who is also passionate about user interface design.
 
 ### Technologies
-- Front-end Development with HTML, CSS, Javascript, React and NextJS.
+- Front-end Development with HTML, CSS, Javascript, Typescript, React and NextJS.
 - User Interface Design.
 - Web Design with Figma.
 
